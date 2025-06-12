@@ -21,6 +21,7 @@ body
 div p
 {
     color:rgb(148, 95, 95);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 a:hover
