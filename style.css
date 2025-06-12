@@ -15,7 +15,7 @@ body
 .blur
 {
     backdrop-filter: blur(5px);
-    background-color: rgb(51, 188, 112);
+    background-color: rgb(255, 255, 255);
 }
 
 div p
